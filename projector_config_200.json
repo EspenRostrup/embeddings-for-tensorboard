@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/EspenRostrup/embeddings-for-tensorboard/main/tensorboard_200_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/EspenRostrup/embeddings-for-tensorboard/main/tensorboard_200_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/EspenRostrup/embeddings-for-tensorboard/main/tensorboard_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/EspenRostrup/embeddings-for-tensorboard/main/tensorboard_metadata.tsv"
     }
   ]
 }
